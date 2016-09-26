@@ -1,1 +1,1 @@
-# Ski-Snoboard-GPS-G-force-logger
+# Ski-Snowboard-GPS-G-force-logger
